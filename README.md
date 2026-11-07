@@ -1,2 +1,2 @@
 # curr-culo_Pedro-Viegas
-curriculo academico 07/11/26
+curriculo academico em html 07/11/26
